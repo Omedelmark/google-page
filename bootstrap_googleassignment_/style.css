@@ -1,0 +1,37 @@
+.header {
+  text-align: right;
+  list-style-type: none;
+  float: right;
+}
+img {
+  width: 100px;
+  height: 100px;
+  margin-top: 100px;
+  margin-left: 150px;
+}
+input {
+  border-radius: 5px;
+}
+.button {
+  margin-left: 430px;
+}
+p {
+  text-align: center;
+}
+.mark {
+  text-align: left;
+  list-style-type: none;
+  float: left;
+  margin-top: 200px;
+}
+.privacy {
+  text-align: right;
+  list-style-type: none;
+  float: right;
+  margin-top: 200px;
+}
+
+
+
+
+
